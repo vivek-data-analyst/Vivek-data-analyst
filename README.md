@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vivek Bodhanapu 👋
 
-<!--
-**vivek-data-analyst/Vivek-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a recent graduate interested in Data Analytics and Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Data Analytics.
+
+### 🛠️ Skills & Tools
+- Microsoft Excel
+- SQL (MS SQL Server)
+- Power BI
+- Python (Learning)
+
+### 📊 Projects
+- Global superstore analysis
+- Excel Sales Dashboard
+- Power BI Sales Analysis Dashboard
+- SQL Data Analysis Practice
+- Hospital Data Analysis Project
+
+### 🎯 Career Goal
+To become a skilled Data Analyst and build a career in a corporate organization.
+
+### 📫 Connect with me
+- GitHub: [My GitHub Profile](https://github.com/vivek-data-analyst)
+-
